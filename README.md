@@ -6,5 +6,5 @@ Hi, I'm Tiago. I'm a portuguese 🇵🇹 iOS Developer and apple 🍎 fanboy but
 
 Find me around the world 🌍:
 - Some of my articles 📝 on [Medium](https://medium.com/@tiagosanto).
-- Aggregating everything on my [Website](https://tsanto.github.io).
-- Sharing updates 💼 on [LinkedIn](https://www.linkedin.com/in/tiago-santo-289766118/).
+- Aggregating everything on my [Website](https://tiagosanto.pt).
+- Sharing updates 💼 on [LinkedIn](https://www.linkedin.com/in/tiagosanto/).
