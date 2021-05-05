@@ -2,7 +2,7 @@
 
 ![](https://github.com/tsanto/tsanto/blob/master/me.png?raw=true)
 
-Hi, I'm Tiago. I'm a portuguese 🇵🇹 iOS Developer and apple 🍎 fanboy but I prefer green ones 🍏 I'm passionate about Swift and SwiftUI. Currently banging my head against the desk because of SwiftUI 🤫 🤯 ⚒️
+Hi, I'm Tiago. Full-time iOS Engineer, part-time Indie Maker and cryptocurrency trader, and wannabe blockchain developer. Passionate about Swift and SwiftUI, currently banging my head against the desk because of SwiftUI 🤫 🤯 ⚒️
 
 Developer of [izme](https://apps.apple.com/app/id1542950548).
 
